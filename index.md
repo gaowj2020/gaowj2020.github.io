@@ -5,19 +5,19 @@
 2020.08至今，浙江大学经济学院财政学系
 
 ### 学习经历
-2016-2020，清华大学 经济管理学院，经济学博士
-2013-2016，首都经济贸易大学 劳动经济学院，经济学硕士
-2009-2013，首都经济贸易大学 劳动经济学院，管理学学士 
+- 2016-2020，清华大学 经济管理学院，经济学博士
+- 2013-2016，首都经济贸易大学 劳动经济学院，经济学硕士
+- 2009-2013，首都经济贸易大学 劳动经济学院，管理学学士 
 ### 研究成果
-- 高文静，施新政，陆瑶，王佳琪，“劳动力保护与企业风险——来自2008年新《劳动合同法》的证据”，《金融研究》，2022年第1期。
-- 高文静，施新政，“资本积累、偏向型技术进步与异质性劳动力需求”，《劳动经济研究》，2021年第4期。
-- 施新政，高文静，陆瑶，李蒙蒙，“资本市场配置效率与劳动收入份额:来自股权分置改革的证据”，《经济研究》，2019 年第 12 期。
-- Wenjing Gao, Yao Lu, and Xinzheng Shi, ”Trade Liberalization and Corporate Income Tax Avoidance”, Economic Inquiry, 2019, Vol 57, No 9, 1963-1980.
+1. 高文静，施新政，陆瑶，王佳琪，“劳动力保护与企业风险——来自2008年新《劳动合同法》的证据”，《金融研究》，2022年第1期。
+2. 高文静，施新政，“资本积累、偏向型技术进步与异质性劳动力需求”，《劳动经济研究》，2021年第4期。
+3. 施新政，高文静，陆瑶，李蒙蒙，“资本市场配置效率与劳动收入份额:来自股权分置改革的证据”，《经济研究》，2019 年第 12 期。
+4. Wenjing Gao, Yao Lu, and Xinzheng Shi, ”Trade Liberalization and Corporate Income Tax Avoidance”, Economic Inquiry, 2019, Vol 57, No 9, 1963-1980.
 
 ### 工作论文
-- Wenjing Gao, Jie Mao, and Xinzheng Shi, “Do Firms Benefit from Reduced Information Friction: Evidence from a Tax Hotline Program in China”
-- 高文静，鲁建坤，“税源培育、包容性制度与农民创业”
--高文静，施新政，“企业所得税差异税制、所有权结构调整与经济效率”
+1. Wenjing Gao, Jie Mao, and Xinzheng Shi, “Do Firms Benefit from Reduced Information Friction: Evidence from a Tax Hotline Program in China”
+2. 高文静，鲁建坤，“税源培育、包容性制度与农民创业”
+3. 高文静，施新政，“企业所得税差异税制、所有权结构调整与经济效率”
 
 ### 科研项目：
 - 国家自然科学基金（青年基金）项目：“信息完备性、纳税服务质量与企业税收政策效率研究”，2022-2024
